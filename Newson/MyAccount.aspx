@@ -22,10 +22,10 @@
                         <a class="nav-link active" href="Report.aspx" data-toggle="tab" style="color: #0c223a; width: 150px">Reports</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#forth" data-toggle="tab" style="color: black; width: 150px"><b>Invoices</b></a>
+                        <a class="nav-link" href="Invoice.aspx" data-toggle="tab" style="color: black; width: 150px">Invoices</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="MyAccount.aspx" data-toggle="tab" style="color: #0c223a; width: 150px">My Account</a>
+                        <a class="nav-link" href="#fifth" data-toggle="tab" style="color: #0c223a; width: 150px"><b>My Account</b></a>
                     </li>
                 </ul>
                 <h6 style="margin-top: -25px; color: gray">___________________________________________________________________________________________________________________________________________________________________________________________</h6>
@@ -69,11 +69,19 @@
                             <tr>
                                 <th>Newson ID Username</th>
                                 <td>oliver@newson.io</td>
+                                <td style="color:white">aaaaaaa</td>
+                                <td style="color:white">aaaaaaa</td>
+                                <td style="color:white">aaaaaaa</td>
+                                <td style="color:white">aaaaaaa</td>
                                 <td><a href="#">Edit Username ></a></td>
                             </tr>
                             <tr>
                                 <th>Password</th>
                                 <td>********</td>
+                                <td style="color:white">aaaaaaa</td>
+                                <td style="color:white">aaaaaaa</td>
+                                <td style="color:white">aaaaaaa</td>
+                                <td style="color:white">aaaaaaa</td>
                                 <td><a href="#">Edit Password ></a></td>
                             </tr>
                         </table>
@@ -91,6 +99,7 @@
                                 <th><i class="fa fa-credit-card" style="font-size: 15px"></i>Payment Details</th>
                                 <td>Account Holder Name</td>
                                 <td>Mr O D Mcvey</td>
+                                <td>    </td><td>   </td><td>   </td>
                                 <td><a href="#">Change Bank Details ></a></td>
                             </tr>
                             <tr>
@@ -107,6 +116,7 @@
                                 <td>
                                 <th><i class="fa fa-credit-card" style="font-size: 15px"></i>Payment Date</th>
                                 <td>18th of each month (or just after)</td>
+                                <td>    </td><td>   </td><td>   </td><td>   </td>
                                 <td><a href="#">Change Payment Details ></a></td>
                             </tr>
                         </table>

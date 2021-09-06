@@ -325,6 +325,7 @@
     <Content Include="Assets\vendor\bootstrap.min.js.map" />
     <Content Include="Assets\vendor\popper.min.js.map" />
     <None Include="packages.config" />
+    <None Include="Properties\PublishProfiles\IISProfile.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -333,7 +334,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Properties\PublishProfiles\" />
     <Folder Include="Template\" />
   </ItemGroup>
   <PropertyGroup>
